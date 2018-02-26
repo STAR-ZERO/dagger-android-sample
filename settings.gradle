@@ -1,0 +1,1 @@
+include ':simpleapp', ':simplefragment', ':createmodule', ':parameter', ':baseclass'
