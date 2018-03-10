@@ -1,1 +1,1 @@
-include ':simpleapp', ':simplefragment', ':createmodule', ':parameter', ':baseclass', ':multiset', ':multimap', ':mapkey', ':provider'
+include ':simpleapp', ':simplefragment', ':createmodule', ':parameter', ':baseclass', ':multiset', ':multimap', ':mapkey', ':provider', ':lazy'
